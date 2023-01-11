@@ -1,0 +1,27 @@
+nav{
+    color:white;
+    background-color: black;
+    margin-bottom: 20px;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav h2{
+    color: white;
+}
+nav a{
+    color: white;
+    padding: 13px;
+}
+nav ul div{
+    display: flex;
+}
+.nav_links{
+    margin-left: 45rem;
+}
+.cart_size{
+    color: red;
+    font-size: 13px;
+    vertical-align: super;
+}
